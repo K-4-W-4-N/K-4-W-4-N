@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm RootM3b!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 🤖 Hello World, I'm RootM3b!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
@@ -25,10 +25,11 @@ I am a Brazilian Full Stack Developer, **16 years old** 👶🏻 and **6 years o
 
 **Math lover** 𝞹, **technology and security** 👽, **first class chess player** ♟️, and a good **video game player** and fan of **Guitar Hero** 🎸,
 
-* ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
+* 🖥️ I am currently working on personal projects
+* 🎲 I am currently learning new modern technologies
+* 👾 I'm looking to collaborate on open source projects
+* 💬 Ask me about technology, chess and programming
+* 💥 Interesting fact the first language I had contact with was java
 
 ----
 
