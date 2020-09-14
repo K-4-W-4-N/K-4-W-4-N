@@ -19,9 +19,9 @@
 
 ---- 
 
-Hi, I'm Kawan, but you can call me **RootM3b**. 
+Hi, I'm **Kawan**, but you can call me **RootM3b**. 
 
-I am a Brazilian Full Stack Developer, **16 years old** 👶🏻 and **6 years of coding** 🧐.
+I am a Brazilian **Full Stack Developer**, **16 years old** 👶🏻 and **6 years of coding** 🧐.
 
 **Math lover** 𝞹, **technology and security** 👽, **first class chess player** ♟️, and a good **video game player** 🎮, and fan of **Guitar Hero** 🎸,
 
