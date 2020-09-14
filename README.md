@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Ary!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World, I'm RootM3b!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,11 +22,11 @@
 
 ---- 
 
-Hi, I'm Aryclenio, but you can call me **Ary**. 
+Hi, I'm Kawan, but you can call me **RootM3b**. 
 
-I'm a Front-end Typescript Developer from Brazil 💚, **22 years old** 👶🏻 and **8 years of coding** 🧐. 
+I am a Brazilian Full Stack Developer, ** 16 years old ** 👶🏻 and ** 6 years of coding ** 🧐.
 
-**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
+**Math lover** 𝞹, **technology and security** 👽, **first class chess player** ♟️, and a good **video game player** and fan of **Guitar Hero** 🎸
 
 * ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
@@ -41,8 +41,6 @@ I'm a Front-end Typescript Developer from Brazil 💚, **22 years old** 👶🏻
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
