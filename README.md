@@ -1,22 +1,19 @@
 ### 👋 Hello World, I'm RootM3b!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<a target="_blank" href="https://www.instagram.com/kah_du1//">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a target="_blank" href="https://dev.to/rootm3b/">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/>
 </a>
-<a target="_blank" href="https://dev.to/aryclenio/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+<a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://fb.com/aryxb">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a target="_blank" href="https://fb.com/RootM3b">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 </br>
 
@@ -26,7 +23,7 @@ Hi, I'm Kawan, but you can call me **RootM3b**.
 
 I am a Brazilian Full Stack Developer, ** 16 years old ** 👶🏻 and ** 6 years of coding ** 🧐.
 
-**Math lover** 𝞹, **technology and security** 👽, **first class chess player** ♟️, and a good **video game player** and fan of **Guitar Hero** 🎸
+**Math lover** 𝞹, **technology and security** 👽, **first class chess player** ♟️, and a good **video game player** and fan of **Guitar Hero** 🎸,
 
 * ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
@@ -49,4 +46,4 @@ I am a Brazilian Full Stack Developer, ** 16 years old ** 👶🏻 and ** 6 year
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![ROOT-M3B GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
