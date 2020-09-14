@@ -5,17 +5,10 @@
 
 All about me
 
------------------------------------------------------------------
-- 🔭 I am currently working on personal projects                -
------------------------------------------------------------------
-- 🌱 I am currently learning new technologies                   -
------------------------------------------------------------------
-- 👯 I'm looking to collaborate on open source projects         -
------------------------------------------------------------------
-- 💬 Ask me about information technology and programming        -
------------------------------------------------------------------
-- ⚡ Curiosity: I started studying programming at the age of 10 -
------------------------------------------------------------------
+- 🖥️ I am currently working on personal projects 
+- 👾 I'm looking to collaborate on open source projects
+- 💬 Ask me about information technology and programming
+- ⚡ Curiosity: I started studying programming at the age of 10 
 
 ![ROOT-M3B GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROOT-M3B&show_icons=true)
 
