@@ -1,4 +1,4 @@
-### 🤖 Hello World, I'm RootM3b!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 🤖 Hello World, I'm K4W4N!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
@@ -6,10 +6,10 @@
 <a target="_blank" href="https://www.instagram.com/kah_du1/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a target="_blank" href="https://fb.com/RootM3b">
+<a target="_blank" href="https://www.fb.com/K4w4nD/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-<a target="_blank" href="https://dev.to/rootm3b/">
+<a target="_blank" href="https://dev.to/k4w4n/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/>
 </a>
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
@@ -19,7 +19,7 @@
 
 ---- 
 
-Hi, I'm **Kawan**, but you can call me **RootM3b**. 
+Hi, I'm **Kawan**, but you can call me **K4w4n**. 
 
 I am a Brazilian **Full Stack Developer**, **16 years old** 👶🏻 and **6 years of coding** 🧐.
 
