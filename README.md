@@ -20,7 +20,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 * 💥 Interesting fact the first language I had contact with was java
 </p>
 
-<p align="center"><strong>Languages and Tools:</strong></p>
+<p align="center"><strong>Languages and Tools</strong></p>
 
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -43,15 +43,14 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 <img src="https://github-readme-stats.vercel.app/api?username=K-4-W-4-N&show_icons=true&theme=radical" alt="K-4-W-4-N"/>
 </p>
 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
-</a>
-<a target="_blank" href="https://www.instagram.com/kah_du1/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
 <a target="_blank" href="https://www.fb.com/K4w4nD/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
+
+<a target="_blank" href="https://www.instagram.com/kah_du1/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+
 <a target="_blank" href="https://dev.to/k4w4n/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/>
 </a>
