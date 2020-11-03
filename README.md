@@ -18,12 +18,13 @@
 </br>
 
 ---- 
-
+<p align="center">
 Hi, I'm **Kawan**, but you can call me **K4w4n**. 
 
 I am a Brazilian **Full Stack Developer**, **16 years old** 👶🏻 and **6 years of coding** 🧐.
 
 **Math lover** 𝞹, **technology and security** 👽, **first class chess player** ♟️, and a good **video game player** 🎮, and fan of **Guitar Hero** 🎸,
+</p>
 
 * 🖥️ I am currently working on personal projects
 * 🎲 I am currently learning new modern technologies
@@ -34,7 +35,7 @@ I am a Brazilian **Full Stack Developer**, **16 years old** 👶🏻 and **6 yea
 ----
 
 **Languages and Tools:**  
-
+<p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -49,4 +50,5 @@ I am a Brazilian **Full Stack Developer**, **16 years old** 👶🏻 and **6 yea
 ----
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-<img src="https://github-readme-stats.vercel.app/api?username=arthrc&show_icons=true&theme=radical" alt="K-4-W-4-N"/>
+<img src="https://github-readme-stats.vercel.app/api?username=K-4-W-4-N&show_icons=true&theme=radical" alt="K-4-W-4-N"/>
+</p>
