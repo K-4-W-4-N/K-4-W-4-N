@@ -1,5 +1,4 @@
-### 🤖 Hello World, I'm K4W4N!  
-<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <div align="center">🤖 Hello World, I'm K4W4N! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></div>
 
 <div align="center">
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
@@ -53,6 +52,6 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
-<img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=K-4-W-4-N&show_icons=true&theme=radical" alt="K-4-W-4-N"/>
+<img src="https://github-readme-stats.vercel.app/api?username=K-4-W-4-N&show_icons=true&theme=radical" alt="K-4-W-4-N"/>
