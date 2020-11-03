@@ -44,24 +44,16 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 </p>
 
 <a target="_blank" href="https://www.fb.com/K4w4nD/">
-  <p align="center">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-  </p>
+  <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 
 <a target="_blank" href="https://www.instagram.com/kah_du1/">
-  <p align="center">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-  </p>
+  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 
 <a target="_blank" href="https://dev.to/k4w4n/">
-  <p align="center">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/>
-  </p>
+  <img align="center" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/>
 </a>
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
-  <p align="center">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-  </p>
+  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
