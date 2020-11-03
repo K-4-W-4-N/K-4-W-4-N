@@ -19,9 +19,11 @@
 ---- 
 <p align="center">
 Hi, I'm <strong>Kawan</strong>, but you can call me <strong>K4w4n</strong>. 
-
+</p>
+<p align="center">
 I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</strong> 👶🏻 and <strong>6 years of coding</strong> 🧐.
-
+</p>
+<p align="center">
 <strong>Math lover</strong> 𝞹, <strong>technology and security</strong> 👽, <strong>first class chess player</strong> ♟️, and a good <strong>video game player</strong> 🎮, and fan of <strong>Guitar Hero</strong> 🎸,
 </p>
 
@@ -30,8 +32,6 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 * 👾 I'm looking to collaborate on open source projects
 * 💬 Ask me about technology, chess and programming
 * 💥 Interesting fact the first language I had contact with was java
-
-----
 
 <strong>Languages and Tools:</strong>
 <p align="center">
@@ -46,7 +46,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
-----
-#### <img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+
+<img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=K-4-W-4-N&show_icons=true&theme=radical" alt="K-4-W-4-N"/>
