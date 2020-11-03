@@ -1,4 +1,4 @@
-### 🤖 Hello World, I'm K4W4N!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <p align="center">🤖 Hello World, I'm K4W4N!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p>
 <div align="center">
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
