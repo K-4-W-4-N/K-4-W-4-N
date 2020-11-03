@@ -24,16 +24,19 @@ Hi, I'm <strong>Kawan</strong>, but you can call me <strong>K4w4n</strong>.
 I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</strong> 👶🏻 and <strong>6 years of coding</strong> 🧐.
 </p>
 <p align="center">
-<strong>Math lover</strong> 𝞹, <strong>technology and security</strong> 👽, <strong>first class chess player</strong> ♟️, and a good <strong>video game player</strong> 🎮, and fan of <strong>Guitar Hero</strong> 🎸,
+<strong>Math lover</strong> 𝞹, <strong>technology and security</strong> 👽, <strong>first class chess player</strong> ♟️, and a good <strong>video game player</strong> 🎮, and fan of <strong>Guitar Hero</strong> 🎸.
 </p>
 
+<p align="center">
 * 🖥️ I am currently working on personal projects
 * 🎲 I am currently learning new modern technologies
 * 👾 I'm looking to collaborate on open source projects
 * 💬 Ask me about technology, chess and programming
 * 💥 Interesting fact the first language I had contact with was java
+</p>
 
 <strong>Languages and Tools:</strong>
+
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
