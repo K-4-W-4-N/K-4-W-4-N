@@ -43,6 +43,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 <img src="https://github-readme-stats.vercel.app/api?username=K-4-W-4-N&show_icons=true&theme=radical" alt="K-4-W-4-N"/>
 </p>
 
+<p align="center">
 <a target="_blank" href="https://www.fb.com/K4w4nD/">
   <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
@@ -57,3 +58,4 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
+</p>
