@@ -1,5 +1,5 @@
 ### 🤖 Hello World, I'm K4W4N!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+<p align="center">
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
 </a>
@@ -16,14 +16,14 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 </br>
-
+</p>
 ---- 
 <p align="center">
-Hi, I'm **Kawan**, but you can call me **K4w4n**. 
+Hi, I'm <strong>Kawan</strong>, but you can call me <strong>K4w4n</strong>. 
 
-I am a Brazilian **Full Stack Developer**, **16 years old** 👶🏻 and **6 years of coding** 🧐.
+I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</strong> 👶🏻 and <strong>6 years of coding</strong> 🧐.
 
-**Math lover** 𝞹, **technology and security** 👽, **first class chess player** ♟️, and a good **video game player** 🎮, and fan of **Guitar Hero** 🎸,
+<strong>Math lover</strong> 𝞹, <strong>technology and security</strong> 👽, <strong>first class chess player</strong> ♟️, and a good <strong>video game player</strong> 🎮, and fan of <strong>Guitar Hero</strong> 🎸,
 </p>
 
 * 🖥️ I am currently working on personal projects
