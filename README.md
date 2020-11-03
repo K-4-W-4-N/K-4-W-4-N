@@ -13,14 +13,14 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 </p>
 
 <p align="center">
-* 🖥️ I am currently working on personal projects
-* 🎲 I am currently learning new modern technologies
-* 👾 I'm looking to collaborate on open source projects
-* 💬 Ask me about technology, chess and programming
+* 🖥️ I am currently working on personal projects<br>
+* 🎲 I am currently learning new modern technologies<br>
+* 👾 I'm looking to collaborate on open source projects<br>
+* 💬 Ask me about technology, chess and programming<br>
 * 💥 Interesting fact the first language I had contact with was java
 </p>
 
-<strong>Languages and Tools:</strong>
+<p align="center"><strong>Languages and Tools:</strong></p>
 
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
