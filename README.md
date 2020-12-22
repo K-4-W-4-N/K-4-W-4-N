@@ -44,17 +44,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 </p>
 
 <p align="center">
-<a target="_blank" href="https://www.fb.com/K4w4nD/">
-  <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
 
-<a target="_blank" href="https://www.instagram.com/kah_du1/">
-  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-
-<a target="_blank" href="https://dev.to/k4w4n/">
-  <img align="center" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/>
-</a>
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
