@@ -47,6 +47,12 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-M3B&hide=html&layout=compact&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
+  <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/>
+</p>
+
+<p align="center">
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
