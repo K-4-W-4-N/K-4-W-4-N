@@ -15,8 +15,8 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 <p align="center">
 * ♟️ I am currently working on personal projects ♟️ <br>
 * :spades: I am currently learning new modern technologies :spades: <br>
-* :gem: I'm looking to collaborate on open source projects :gem: <br>
-* :game_die: Interesting fact the first language I had contact with was java :game_die:
+* :game_die: I'm looking to collaborate on open source projects :game_die: <br>
+* :gem: Interesting fact the first language I had contact with was java :gem:
 </p>
 
 <p align="center"><strong>Languages and Tools</strong></p>
