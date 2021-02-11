@@ -13,11 +13,10 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 </p>
 
 <p align="center">
-* 🖥️ I am currently working on personal projects<br>
-* 🎲 I am currently learning new modern technologies<br>
-* 👾 I'm looking to collaborate on open source projects<br>
-* 💬 Ask me about technology, chess and programming<br>
-* 💥 Interesting fact the first language I had contact with was java
+* ♟️ I am currently working on personal projects<br> ♟️
+* :spades: I am currently learning new modern technologies<br> :spades:
+* :gem: I'm looking to collaborate on open source projects<br> :gem:
+* :game_die: Interesting fact the first language I had contact with was java :game_die:
 </p>
 
 <p align="center"><strong>Languages and Tools</strong></p>
@@ -26,7 +25,6 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>16 years old</st
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
