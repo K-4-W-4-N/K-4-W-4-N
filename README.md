@@ -6,21 +6,14 @@
 
 </br>
 
-<p align="center">
+<p width="25%" align="center">
 Hi, I'm <strong>Kawan</strong>, but you can call me <strong>ROOT</strong>. 
 </p>
 <p align="center">
-I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</strong> 👶🏻 and <strong>7 years of coding</strong> 🧐.
+I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</strong> and <strong>7 years of coding</strong>.
 </p>
 <p align="center">
 <strong>Math lover</strong> 𝞹, <strong>technology and security</strong> 👽, <strong>first class chess player</strong> ♟️, a good <strong>video game player</strong> 🎮, and fan of <strong>Guitar Hero</strong> 🎸.
-</p>
-
-<p align="center">
-♟️ I am currently working on personal projects ♟️ <br>
-:diamonds: I am currently learning new modern technologies :diamonds: <br>
-:game_die: I'm looking to collaborate on open source projects :game_die: <br>
-:gem: Interesting fact the first language I had contact with was java :gem:
 </p>
 
 <p align="center"><strong>Languages and Tools</strong></p>
