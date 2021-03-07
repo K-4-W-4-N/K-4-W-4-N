@@ -5,7 +5,6 @@
 ### <div align="center">🤖 Hello World, I'm ROOTM3B! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></div>
 
 <hr>
-</br>
 
 <p width="25%" align="center">
 Hi, I'm <strong>Kawan</strong>, but you can call me <strong>ROOT</strong>. 
@@ -16,6 +15,8 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</st
 <p align="center">
 <strong>Math lover</strong> 𝞹 <br> <strong>technology and security</strong> 👽 <br> <strong>first class chess player</strong> ♟️
 </p>
+
+<hr>
 
 <p align="center"><strong>Languages and Tools</strong></p>
 
@@ -33,6 +34,8 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</st
 <img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/69aa4a04ab4e100773caa311c3513f8114fd5a32/images/github.svg' width='30'/> 
 <img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/main/images/bash.png' width='30'/>
 </p>
+
+<hr>
 
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
