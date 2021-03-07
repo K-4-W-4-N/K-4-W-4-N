@@ -4,6 +4,7 @@
 
 ### <div align="center">🤖 Hello World, I'm ROOTM3B! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></div>
 
+<hr>
 </br>
 
 <p width="25%" align="center">
@@ -13,7 +14,7 @@ Hi, I'm <strong>Kawan</strong>, but you can call me <strong>ROOT</strong>.
 I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</strong> and <strong>7 years of coding</strong>.
 </p>
 <p align="center">
-<strong>Math lover</strong> 𝞹, <strong>technology and security</strong> 👽, <strong>first class chess player</strong> ♟️, a good <strong>video game player</strong> 🎮, and fan of <strong>Guitar Hero</strong> 🎸.
+<strong>Math lover</strong> 𝞹 <br> <strong>technology and security</strong> 👽 <br> <strong>first class chess player</strong> ♟️
 </p>
 
 <p align="center"><strong>Languages and Tools</strong></p>
