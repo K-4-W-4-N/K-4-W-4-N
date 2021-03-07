@@ -13,7 +13,7 @@ Hi, I'm <strong>Kawan</strong>, but you can call me <strong>ROOT</strong>.
 I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</strong> and <strong>7 years of coding</strong>.
 </p>
 <p align="center">
-<strong>Math lover</strong> 𝞹 <br> <strong>technology and security</strong> 👽 <br> <strong>first class chess player</strong> ♟️
+<strong>Math lover</strong> 𝞹 <br> <strong>technology and security</strong> 👽 <br> <strong>chess player</strong> ♟️
 </p>
 
 <hr>
