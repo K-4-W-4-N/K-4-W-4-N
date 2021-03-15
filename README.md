@@ -53,7 +53,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</st
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
-  <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/>
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROOT-M3B&show_icons=true&theme=radical)"/>
 </p>
 
 <p align="center">
