@@ -51,10 +51,6 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</st
 
 <hr>
 
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
-  <img align="center" src=""/>
-</p>
 
 <p align="center">
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
