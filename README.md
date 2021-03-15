@@ -46,7 +46,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</st
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-M3B&hide=html&layout=compact&show_icons=true&theme=radical" />
+    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 <hr>
