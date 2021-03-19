@@ -51,6 +51,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</st
 
 <hr>
 
+<p align="center"><strong>Contato</strong></p>
 
 <p align="center">
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
